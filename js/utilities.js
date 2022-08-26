@@ -1,0 +1,1 @@
+echo "# bank-with-js-function" >> README.md
