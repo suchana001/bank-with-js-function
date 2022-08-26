@@ -10,7 +10,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
     
     // step 4: verify email password on client side... do not verify on client side
     if(email === 'abc@gmail.com' && password === 'asdf'){
-        window.location.href = 'bank.html';
+        window.location.href = 'bank.html';  // opens the bank.html page 
     }
     else{
         alert('Invalid User');
