@@ -22,6 +22,7 @@ function getElementValueById(elementId){
     const elementValueString = element.innerText;
     const value = parseFloat(elementValueString);
     return value;
+
 }
 
 
